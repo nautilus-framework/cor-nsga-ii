@@ -2,12 +2,16 @@
 ## Table of Contents
 
 <ul>
-    <li><a href="#heading">Heading</a>
+    <li><a href="#heading">Abstract</a>
+    <li><a href="#heading">Feature Models</a>
+    <li><a href="#heading">Research Questions</a>
       <ul>
-        <li><a href="#sub-heading-1">Sub heading 1</a></li>
-        <li><a href="#sub-heading-2">Sub heading 2</a></li>
+        <li><a href="#sub-heading-1">RQ1: Sanity Check</a></li>
+        <li><a href="#sub-heading-2">RQ2: Comparing COR-NSGA-II to MOEAs and MaOEAs</a></li>
+        <li><a href="#sub-heading-2">RQ3: Evaluating the Solutions</a></li>
       </ul>
     </li>
+    <li><a href="#heading">Questionnaires</a>
   </ul>
 
 ## Abstract
