@@ -1,10 +1,6 @@
-# Variability Testing of Software Product Line: A Preference-based Dimensionality Reduction Approach
-Thiago do N. Ferreira, Silvia Regina Vergilio and Marouane Kessentini
+## Table of Contents
 
-<h1 id="heading">Heading</h1>
-
-<div class="table-of-contents">
-  <ul>
+<ul>
     <li><a href="#heading">Heading</a>
       <ul>
         <li><a href="#sub-heading-1">Sub heading 1</a></li>
@@ -12,7 +8,6 @@ Thiago do N. Ferreira, Silvia Regina Vergilio and Marouane Kessentini
       </ul>
     </li>
   </ul>
-</div>
 
 ## Abstract
 
