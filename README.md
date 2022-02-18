@@ -21,9 +21,39 @@ Multi- and Many-Evolutionary Algorithms have been applied to derive products for
 
 ## Feature Models
 
-
-| ![cas](./images/fm-cas.png)  | ![cas](./images/fm-cas.png)  | ![cas](./images/fm-cas.png)  |
+| ![cas](./images/fm-cas.png)  | ![drupal](./images/fm-drupal.png)  | ![EShop](./images/fm-eshop.png)  |
 |:---:|:---:|:---:|
-| http://videoblocks.com | http://audioblocks.com | http://graphicstock.com |
+| CAS | Drupal | EShop |
 
-![name-of-you-image](./images/fm-cas.png)
+| ![james](./images/fm-james.png)  | ![smarthome](./images/fm-smarthome.png)  | ![ws](./images/fm-ws.png)  |
+|:---:|:---:|:---:|
+| James | Smarthome | WS |
+
+## Research Questions
+
+### RQ1: Sanity Check
+
+| ![](./images/rq1/image.png)  | ![](./images/rq1/image-2.png) |
+|:---:|:---:|
+
+### RQ2: Comparing COR-NSGA-II to MOEAs and MaOEAs
+
+| ![](./images/rq2/image.png)  | ![](./images/rq2/image-2.png) |
+|:---:|:---:|
+
+| ![](./images/rq2/image-3.png)  | ![](./images/rq2/image-4.png) |
+|:---:|:---:|
+
+| ![](./images/rq2/image-5.png)  | ![](./images/rq2/image-5.png) |
+|:---:|:---:|
+
+### RQ3: Evaluating the Solutions
+
+![](./images/rq3/image.png)
+
+## Questionnaires
+
+ - [Algorithms Questionnaire](./questionnaires/Algorithms Questionnaire.pdf)
+ - [Participants Questionnaire](./questionnaires/Participants Questionnaire.pdf)
+ - [Pre-study Questionnaire](./questionnaires/Pre-study Questionnaire.pdf)
+
