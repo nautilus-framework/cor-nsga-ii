@@ -29,6 +29,17 @@
 
 ## Feature Models
 
+Thes are the charateristics of the FMs used in the experiments.
+
+| FM | Nt | n | AM | VP | # of Features |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+James [31] | 68 | 68 | 106 | 75 |  14 | 
+CAS [32] | 450 | 450 | 227 | 183 |  21 | 
+WS [33] | 504 | 504 | 357 | 195 |  22 | 
+E-Shop [34] | 1152 | 1152 | 94 | 202 |  22 | 
+Drupal [34] | ~2.09E9  | 11k | 2194 | 1081 | 48 | 
+Smarthome [6] | ~3.87E9 | 11k | 2948 | 1710 | 60 | 
+
 | ![cas](./images/fm-cas.png)  | ![drupal](./images/fm-drupal.png)  | ![EShop](./images/fm-eshop.png)  |
 |:---:|:---:|:---:|
 | CAS | Drupal | EShop |
