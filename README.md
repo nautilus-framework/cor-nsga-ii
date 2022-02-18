@@ -40,6 +40,8 @@ E-Shop [34] | 1152 | 1152 | 94 | 202 |  22 |
 Drupal [34] | ~2.09E9  | 11k | 2194 | 1081 | 48 | 
 Smarthome [6] | ~3.87E9 | 11k | 2948 | 1710 | 60 | 
 
+The following shows the FMs.
+
 | ![cas](./images/fm-cas.png)  | ![drupal](./images/fm-drupal.png)  | ![EShop](./images/fm-eshop.png)  |
 |:---:|:---:|:---:|
 | CAS | Drupal | EShop |
