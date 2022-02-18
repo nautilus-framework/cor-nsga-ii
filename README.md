@@ -6,11 +6,11 @@
     <li><a href="#feature-models">Feature Models</a></li>
     <li>
         <a href="#research-questions">Research Questions</a>
-      <ul>
+      <!-- <ul>
         <li><a href="#sub-heading-1">RQ1: Sanity Check</a></li>
         <li><a href="#sub-heading-2">RQ2: Comparing COR-NSGA-II to MOEAs and MaOEAs</a></li>
         <li><a href="#sub-heading-2">RQ3: Evaluating the Solutions</a></li>
-      </ul>
+      </ul> -->
     </li>
     <li><a href="#questionnaires">Questionnaires</a></li>
 </ul>
