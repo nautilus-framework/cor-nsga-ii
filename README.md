@@ -35,6 +35,7 @@ Multi- and Many-Evolutionary Algorithms have been applied to derive products for
 
 | ![](./images/rq1/image.png)  | ![](./images/rq1/image-2.png) |
 |:---:|:---:|
+| | |
 
 ### RQ2: Comparing COR-NSGA-II to MOEAs and MaOEAs
 
