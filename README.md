@@ -40,12 +40,15 @@ Multi- and Many-Evolutionary Algorithms have been applied to derive products for
 
 | ![](./images/rq2/image.png)  | ![](./images/rq2/image-2.png) |
 |:---:|:---:|
+| | |
 
 | ![](./images/rq2/image-3.png)  | ![](./images/rq2/image-4.png) |
 |:---:|:---:|
+| | |
 
 | ![](./images/rq2/image-5.png)  | ![](./images/rq2/image-5.png) |
 |:---:|:---:|
+| | |
 
 ### RQ3: Evaluating the Solutions
 
